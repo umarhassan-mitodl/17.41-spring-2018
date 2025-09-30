@@ -23,6 +23,7 @@
     "website": "17-41-introduction-to-international-relations-spring-2018"
   },
   "course_title": "Introduction to International Relations",
+  "hide_download": true,
   "course_description": "This course provides an introduction to the causes of international conflict and cooperation. Topics include war initiation, crisis bargaining, international terrorism, nuclear strategy, interstate economic relations, economic growth, international law, human rights, and environmental politics.\n",
   "department_numbers": [
     "17"
@@ -33,6 +34,7 @@
     "content": "4215655a-934c-31ff-1036-264f27e592d0",
     "website": "17-41-introduction-to-international-relations-spring-2018"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Written Assignments"

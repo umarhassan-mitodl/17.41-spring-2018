@@ -4,6 +4,8 @@ description: ''
 file: /courses/17-41-introduction-to-international-relations-spring-2018/2e2b0003cb0b6e4e3e3955fe49868748_MIT17_41S18_Long_Policy_Memo.pdf
 file_size: 506285
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

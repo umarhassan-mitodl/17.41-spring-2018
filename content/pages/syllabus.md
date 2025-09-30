@@ -45,11 +45,11 @@ _Course Texts_
 
 The course is a primary opportunity to develop a firm foundation in IR theory and concepts. We will be making use of two excellent textbooks:
 
-Baylis, John, Steve Smith, and Patricia Owens, eds. _The Globalization of World Politics: An Introduction to International Relations_. 7th edition. Oxford University Press, 2017. ISBN: 9780198739852. \[Preview with {{% resource_link "3d2ef61e-d0cc-414a-ab98-061ed7d8e178" "Google Books" %}}\]
+Baylis, John, Steve Smith, and Patricia Owens, eds. _The Globalization of World Politics: An Introduction to International Relations_. 7th edition. Oxford University Press, 2017. ISBN: 9780198739852. \[Preview with [Google Books](https://books.google.com/books?id=FwyDDQAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
 Buzan, Barry, and Richard Little. _International Systems in World History: Remaking the Study of International Relations_. Oxford University Press, 2000. ISBN: 9780198780656. 
 
-We will also regularly incorporate discussion of contemporary events (and exams may reference them), so you should keep up on what is happening in the world by regularly reading a current events news source like the {{% resource_link "d026bb5d-ace5-47f8-a2dd-6518be5741d5" "_New York Times_" %}} or the {{% resource_link "2da940cf-a792-42fd-b437-e9a68aff8f20" "_Economist_" %}}.
+We will also regularly incorporate discussion of contemporary events (and exams may reference them), so you should keep up on what is happening in the world by regularly reading a current events news source like the [_New York Times_](https://www.nytimes.com/) or the [_Economist_](https://www.economist.com/).
 
 For detailed information, see the {{% resource_link aabd819f-a5dd-0f77-f9b2-fc63e7e64129 "Readings" %}} section.
 
