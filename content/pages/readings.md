@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains the course topics and their accompanying readings.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -10,7 +8,7 @@ title: Readings
 uid: aabd819f-a5dd-0f77-f9b2-fc63e7e64129
 ---
 
-\[BSO\] = Baylis, John, Steve Smith, and Patricia Owens, eds. _The Globalization of World Politics: An Introduction to International Relations_. 7th edition. Oxford University Press, 2017. ISBN: 9780198739852. \[Preview with [Google Books](https://books.google.com/books?id=FwyDDQAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[BSO\] = Baylis, John, Steve Smith, and Patricia Owens, eds. _The Globalization of World Politics: An Introduction to International Relations_. 7th edition. Oxford University Press, 2017. ISBN: 9780198739852. \[Preview with {{% resource_link "19b9cc25-1df5-4f36-89d1-c6e50ba3bfc7" "Google Books" %}}\]
 
 \[BL\] = Buzan, Barry, and Richard Little. _International Systems in World History: Remaking the Study of International Relations_. Oxford University Press, 2000. ISBN: 9780198780656.
 
@@ -48,9 +46,9 @@ Introduction, Syllabus
 {{< tdopen >}}
 
 
-\[BSO\] Lawson, George. Chapter 2: The Rise of the Modern International Order. \[Preview with [Google Books](https://books.google.com/books?id=FwyDDQAAQBAJ&pg=PA37=onepage#v=onepage&q&f=false)\]
+\[BSO\] Lawson, George. Chapter 2: The Rise of the Modern International Order. \[Preview with {{% resource_link "62877423-b94c-4ae6-b3df-9aaaa8d3721b" "Google Books" %}}\]
 
-\[BSO\] Scott, Len. Chapter 3: International History 1990–99. \[Preview with [Google Books](https://books.google.com/books?id=FwyDDQAAQBAJ&pg=PA52=onepage#v=onepage&q&f=false)\]
+\[BSO\] Scott, Len. Chapter 3: International History 1990–99. \[Preview with {{% resource_link "d5e3f38c-e7af-4f64-8cca-9f4e390acef4" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -64,7 +62,7 @@ Introduction, Syllabus
 Realism
 {{< tdclose >}}
 {{< tdopen >}}
-\[BSO\] Dunne, Tim, and Brian C. Schmidt. Chapter 6: Realism. \[Preview with [Google Books](https://books.google.com/books?id=FwyDDQAAQBAJ&pg=PA101=onepage#v=onepage&q&f=false)\]
+\[BSO\] Dunne, Tim, and Brian C. Schmidt. Chapter 6: Realism. \[Preview with {{% resource_link "874e02a8-9e6b-4575-8777-34307539040c" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +74,7 @@ Realism
 Liberalism
 {{< tdclose >}}
 {{< tdopen >}}
-\[BSO\] Dunne, Tim. Chapter 7: Liberalism. \[Preview with [Google Books](https://books.google.com/books?id=FwyDDQAAQBAJ&pg=PA116=onepage#v=onepage&q&f=false)\]
+\[BSO\] Dunne, Tim. Chapter 7: Liberalism. \[Preview with {{% resource_link "4b1189d4-8795-4aa0-856e-f88863a1b278" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +86,7 @@ Liberalism
 Marxism
 {{< tdclose >}}
 {{< tdopen >}}
-\[BSO\] Hobden, Stephen, and Richard Wyn Jones. Chapter 8: Marxist Theories of International Relations. \[Preview with [Google Books](https://books.google.com/books?id=FwyDDQAAQBAJ&pg=PA129=onepage#v=onepage&q&f=false)\]
+\[BSO\] Hobden, Stephen, and Richard Wyn Jones. Chapter 8: Marxist Theories of International Relations. \[Preview with {{% resource_link "b5cb62b5-da00-45ea-82fd-5dc1bf6fc4fb" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +110,7 @@ Global Political Economy
 Constructivism
 {{< tdclose >}}
 {{< tdopen >}}
-\[BSO\] Barnett, Michael. Chapter 9: Social Constructivism. \[Preview with [Google Books](https://books.google.com/books?id=FwyDDQAAQBAJ&pg=PA144=onepage#v=onepage&q&f=false)\]
+\[BSO\] Barnett, Michael. Chapter 9: Social Constructivism. \[Preview with {{% resource_link "dc6d6058-5562-46ec-bb23-b3bc0cd32350" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -294,7 +292,7 @@ Postmodern System / World History and IR
 Environmental Issues
 {{< tdclose >}}
 {{< tdopen >}}
-\[BSO\] Vogler, John. Chapter 24: Environmental Issues. \[Preview with [Google Books](https://books.google.com/books?id=FwyDDQAAQBAJ&pg=PA385=onepage#v=onepage&q&f=false)\]
+\[BSO\] Vogler, John. Chapter 24: Environmental Issues. \[Preview with {{% resource_link "6a09001c-0b0f-4484-9337-667ff3d66ca8" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -312,7 +310,7 @@ International Law
 
 {{< tdclose >}}
 {{< tdopen >}}
-\[BSO\] Reus-Smit, Christian. Chapter 19: International Law. \[Preview with [Google Books](https://books.google.com/books?id=FwyDDQAAQBAJ&pg=PA301=onepage#v=onepage&q&f=false)\]
+\[BSO\] Reus-Smit, Christian. Chapter 19: International Law. \[Preview with {{% resource_link "7768fe5e-003c-4445-8ccd-ebd8b2a6fd7d" "Google Books" %}}\]
 
 \[BSO\] Curtis, Devon E.A., and Paul Taylor. Chapter 21: The United Nations. 
 
@@ -358,9 +356,9 @@ International and Global Security
 
 {{< tdclose >}}
 {{< tdopen >}}
-\[BSO\] Barkawi, Tarak. Chapter 14: War and World Politics. \[Preview with [Google Books](https://books.google.com/books?id=FwyDDQAAQBAJ&pg=PA223=onepage#v=onepage&q&f=false)\]
+\[BSO\] Barkawi, Tarak. Chapter 14: War and World Politics. \[Preview with {{% resource_link "9fef0876-867f-4fad-91ee-fc25d254d796" "Google Books" %}}\]
 
-\[BSO\] Baylis, John. Chapter 15: International and Global Security. \[Preview with [Google Books](https://books.google.com/books?id=FwyDDQAAQBAJ&pg=PA238=onepage#v=onepage&q&f=false)\]
+\[BSO\] Baylis, John. Chapter 15: International and Global Security. \[Preview with {{% resource_link "3e0172a2-62e0-453f-a892-376e6f62f4ac" "Google Books" %}}\]
 
 
 {{< tdclose >}}
